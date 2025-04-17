@@ -195,11 +195,11 @@ void TrhirdTaskFirstDecision()
 
 int main()
 {
-	/* FirstTaskFirstDecision();  // O(n^2)
+	FirstTaskFirstDecision();  // O(n^2)
 	FirstTaskSecondDecision(); // O(n * k)
-	FirstTaskThirdDecision();  // O(n + k) */
+	FirstTaskThirdDecision();  // O(n + k)
 
-	// SecondTaskFirstDecision(); // O(n)
+	SecondTaskFirstDecision(); // O(n)
 
 	TrhirdTaskFirstDecision(); // O(n)
 	
